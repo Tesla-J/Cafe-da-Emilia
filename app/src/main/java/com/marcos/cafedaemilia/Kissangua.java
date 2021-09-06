@@ -6,7 +6,7 @@ public class Kissangua {
     private String mDescription;
     private int mImageID;
 
-    public static final Kissangua[] kissanguas = {
+    public static final Kissangua[] KISSANGUAS = {
             new Kissangua("Milho e mbundi", "Kissangua de milho e raizes de mbundi", R.drawable.kissangua_milho),
             new Kissangua("Farelo", "Kissangua de farelo", R.drawable.kissangua_farelo),
             new Kissangua("Banana", "Kissangua feita de cascas de banana", R.drawable.kissangua_banana),
