@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Café da Emília</string>
+    <string name="samakaka">Samakaka pattern black and white</string>
+    <string name="title">Café da Emília</string>
+    <string-array name="options">
+        <item>Doces</item>
+        <item>Salgados</item>
+        <item>Kissanguas</item>
+        <item>Lojas</item>
+    </string-array>
+</resources>
