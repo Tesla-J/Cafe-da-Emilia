@@ -17,7 +17,7 @@ public class Kissangua {
     public Kissangua(String name, String description, int imageID){
         this.mName = name;
         this.mDescription = description;
-        this.mImageID = mImageID;
+        this.mImageID = imageID;
     }
 
     public String getName(){
