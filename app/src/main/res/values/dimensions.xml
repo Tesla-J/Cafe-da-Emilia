@@ -3,4 +3,8 @@
     <dimen name="title_size">48sp</dimen>
     <dimen name="title_margin">24dp</dimen>
     <dimen name="default_margin">24dp</dimen>
+
+    <dimen name="kissangua_text_size">18sp</dimen>
+    <dimen name="kissangua_text_margin">16dp</dimen>
+    <dimen name="kissangua_title_size">24sp</dimen>
 </resources>
